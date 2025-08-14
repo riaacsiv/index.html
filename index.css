@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to left, #9CAFAA, #D6DAC8, #FBF3D5, #D6A99D);
+}
+
+.abc {
+  text-align: center;
+
+}
+
+.def {
+  white-space: pre-wrap;
+  margin-left: -55px;
+}
